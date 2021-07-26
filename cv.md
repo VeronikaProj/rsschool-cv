@@ -4,6 +4,7 @@ Skills:
 * Selenium, Appium
 * Cucumber
 * Ruby
+
 Education:
 
 2017 Master of control in technical systems _St.Petersburg State Polytechnic University_
