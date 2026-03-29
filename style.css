@@ -1,0 +1,53 @@
+body {
+    background-color: lightblue;
+    font-family: verdana;
+    /* font-size: 20px; */
+  }
+
+header {
+    display: flex;
+    justify-content: left;
+}
+  
+  h1 {
+    color: white;
+    text-align: left;
+  }
+
+  .profile {
+    margin: 20px;
+  }
+
+  .navigation {
+    display: flex;
+    justify-content: center;
+    list-style-type:none;
+  }
+
+  .navigation_item {
+    margin: 0 15px;
+  }
+
+  .skills_list {
+    display:flex;
+    justify-content: left;
+  }
+
+  footer {
+    display: flex;
+    margin: 20px 0px;
+    justify-content:space-between;
+  }
+
+  .info_block {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
